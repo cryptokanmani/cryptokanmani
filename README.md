@@ -1,5 +1,5 @@
 
-[![img](https://tinyurl.com/kanmani-banner-alias)](https://tinyurl.com/kanmani-intro)
+[Just see the link](https://mirror.xyz/kanmani.eth)
 
 <!---
 cryptokanmani/cryptokanmani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
